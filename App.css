@@ -1,0 +1,23 @@
+
+.body {
+
+    background-color: rgb(36, 124, 95);
+    height: 630px;
+    
+}
+
+
+
+.head{
+
+    background-color: rgb(43, 43, 42);
+    color: rgb(236, 204, 162);
+    display:inline-block;
+    margin-left: 35%;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+
