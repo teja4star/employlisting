@@ -1,0 +1,17 @@
+{
+  "Employee": [
+    {
+      "id": "b010",
+      "name": "teja",
+      "email": "gse@mail.vom",
+      "phone": "987124"
+    },
+    {
+      "id": "020e",
+      "name": "teja",
+      "email": "ytesma@gmail",
+      "phone": "94569876",
+      "isActive": true
+    }
+  ]
+}
